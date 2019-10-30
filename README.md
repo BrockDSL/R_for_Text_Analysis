@@ -13,4 +13,4 @@ This workshop is a follow up to our [Introduction to R Workshop](https://github.
 - Extracting data like word frequency and temporal patterns from a text corpus
 - Creating a script that produces a basic summary of each document in a corpus
 
-To see when the next offering of this workshop is, check out our Experience BU page or our Eventbrite page
+To see when the next offering of this workshop is, check out our [Experience BU](https://experiencebu.brocku.ca/organization/dsl) page or our [Eventbrite page](https://www.eventbrite.ca/o/brock-university-digital-scholarship-lab-21661627350)
