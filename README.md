@@ -3,7 +3,7 @@
 
 # R for Text Analysis
 
-This workshop is a follow up to our [Introduction to R Workshop](https://github.com/BrockDSL/Intro_to_R_Workshop/blob/master/README.md).  The goal of this workshop is to introduce the basics of using the R programming language for text prossessing and analysis.  By the end of this workshop you should learn the following:
+This workshop is a follow up to our [Introduction to R Workshop](https://github.com/BrockDSL/Intro_to_R_Workshop).  The goal of this workshop is to introduce the basics of using the R programming language for text prossessing and analysis.  By the end of this workshop you should learn the following:
 
 - Some popular R packages for text analysis
 - A basic understanding of the tokenization of a corpus
